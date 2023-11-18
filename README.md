@@ -50,7 +50,7 @@ Clone the project
 
 
 
-Run the code given in ipython notebook ``
+Run the code given in ipython notebook `Mart_Sales_Prediction.ipynb`
 
 
 ## Features
