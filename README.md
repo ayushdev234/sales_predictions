@@ -1,5 +1,5 @@
 
-# Customer Segmentation
+# SALES PREDICTION
 
 This project revolves around predicting sales for a mart, drawing insights from a comprehensive dataset. The dataset encompasses diverse factors, ranging from item attributes like weight, fat content, and visibility, to outlet details such as establishment year, size, location, and type. The key focus is on estimating item sales within each outlet, facilitating a deeper understanding of the factors influencing sales patterns. 
 
@@ -25,9 +25,19 @@ This project revolves around predicting sales for a mart, drawing insights from 
 .....
 ## Screenshots
 
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
+<p align="center">
+  <img src="screenshots/Screenshot%20(220).png" alt="Linear Regression Distribution" />
+  <br />
+  <em>Linear Regression Distribution</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot%20(221).png" alt="Random Forest Distribution" />
+  <br />
+  <em>Random Forest Distribution</em>
+</p>
+
+
 
 
 ## Run Locally
@@ -35,7 +45,7 @@ This project revolves around predicting sales for a mart, drawing insights from 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone[ https://link-to-project](https://github.com/ayushdev234/sales_predictions.git)
 ```
 
 
